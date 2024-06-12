@@ -1,0 +1,1 @@
+{"rustc":9970351825704545977,"features":"[]","target":6761496479720919859,"profile":5601947868832436996,"path":7317000157971880840,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/world_lib-c9aa0b5de83ad742/dep-lib-world_lib"}}],"rustflags":["--cfg","mirai","-Z","always_encode_mir"],"metadata":7797948686568424061,"config":2202906307356721367,"compile_kind":0}
